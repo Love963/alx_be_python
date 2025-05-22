@@ -1,5 +1,5 @@
 # Assigning predefined  values to the variables
-number1 =10
+number1 = 10
 number2 = 5
 
 # Performing basic arithemtic operations 
