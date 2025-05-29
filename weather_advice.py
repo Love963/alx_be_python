@@ -1,5 +1,6 @@
 #Ask the user for the weather
 weather = input("what's the weather like today? (sunny/rain/cold): ").strip().lower()
+#Make decisions based on the input
 if weather =="sunny":
     print("Wear a t-shirt and sunglasses.")
 elif weather =="rain":
